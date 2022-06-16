@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.app{
+  background-image: linear-gradient(to right top, #1c181a, #1e161c, #1e141f, #1b1323, #161328, #11172d, #091b31, #001f34, #002636, #022d37, #0f3337, #1d3937);
+}
+

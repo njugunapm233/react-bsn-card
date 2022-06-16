@@ -1,0 +1,12 @@
+.header-div{
+    align-items: center;
+    margin:auto;
+    display: flex;
+    
+
+}
+
+.btn-link{
+    justify-content: space-between;
+    display: flex;
+}
