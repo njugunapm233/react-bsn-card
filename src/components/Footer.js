@@ -3,11 +3,10 @@ import {FaGithubSquare , FaLinkedinIn, FaTwitterSquare, FaFacebookSquare } from 
 
 function Footer(){
     return(
-<main className=''>
-<div className="card header-div" style={{width: '30rem'}}>
+
 <div className="card-body">
   <hr/>
-  <div class="card-footer text-muted fs-2 m-2 d-flex gap-2">
+  <div class="position-relative card-footer text-muted fs-2 m-2 d-flex gap-3">
     <FaGithubSquare/>
     <FaLinkedinIn/>
     <FaTwitterSquare/>
@@ -15,8 +14,6 @@ function Footer(){
   </div>
   </div>
 
-</div>
-</main>
     )
 
 }
